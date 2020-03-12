@@ -1,0 +1,9 @@
+@import 'variables.scss';
+@import 'general.scss';
+@import 'partials/navbar.scss';
+@import 'partials/content.scss';
+
+
+body {
+    font-family: $main-family;
+}
